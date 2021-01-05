@@ -18,6 +18,12 @@ SyntaxHighlighter의 highlight 및 기타 메소드들은 완전하지 않을 �
 
 
 
+
+
+*예시 이미지의 TextField 위젯은 제가 만든 ScriptField 위젯입니다. 관련해서는 제 블로그 포스팅을 참고해주세요.(https://github.com/yongsyongs/FlutterSyntaxHighlighter)
+
+
+
 ---
 
 
@@ -37,3 +43,11 @@ As an example, I have added RSyntaxHighlighter for the statistical language R. R
 
 
 SyntaxHighlighter's highlights and other methods may not be complete. If an issue is reported or found, I will try to fix it, but it will be difficult for me to give quick feedback. Instead, the source code is simple, so I recommend customizing it yourself.
+
+
+
+*The TextField widget in the example image is a ScriptField widget created by me. For more information, please refer to my blog post written IN KOREAN (https://github.com/yongsyongs/FlutterSyntaxHighlighter).
+
+
+
+_translated by google translator_
