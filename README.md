@@ -33,3 +33,7 @@ This source code is the implementation of the SyntaxHighlighter class that retur
 
 
 As an example, I have added RSyntaxHighlighter for the statistical language R. RSyntaxHighlighter recognizes keywords, literals, built-in, number, quoted string, and comment.
+
+
+
+SyntaxHighlighter's highlights and other methods may not be complete. If an issue is reported or found, I will try to fix it, but it will be difficult for me to give quick feedback. Instead, the source code is simple, so I recommend customizing it yourself.
